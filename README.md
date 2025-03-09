@@ -30,20 +30,20 @@ Facial emotion detection involves using deep learning to identify and analyze hu
 # Tech Stack
 
 **Language:** 
-- 🐍 python
+-  `python`
 
 **Libraries:** 
-- 🐼 `pandas`
-- 🔢 `numpy`
-- 📂 `os`
-- 📊 `matplotlib`
-- 🌊 `seaborn`
-- ⚠️ `warnings`
-- 🎲 `random`
-- 🤖 `tensorflow`
-- ⚙️ `keras`
-- 🐢 `tqdm`
-- 🧠 `sklearn`
+-  `pandas`
+-  `numpy`
+-  `os`
+-  `matplotlib`
+-  `seaborn`
+-  `warnings`
+-  `random`
+-  `tensorflow`
+-  `keras`
+-  `tqdm`
+-  `sklearn`
 
 
 
